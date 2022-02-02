@@ -67,5 +67,22 @@ footer a {
 
 section {
     padding: 60px;
-    background-image: url(".../images/hero-bg.jpg");
 }
+
+/*hero sytle start*/
+.hero {
+    background-image: url("../images/hero-bg.jpeg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-form {
+    border: solid 3px #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+}
+
+/* hero sytle end*/
