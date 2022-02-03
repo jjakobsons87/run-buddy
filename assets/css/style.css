@@ -134,6 +134,8 @@ section {
     margin: 0 auto;
 }
 
+/* what you do steps */
+
 .steps {
     text-align: center;
     background: #fce138;
@@ -179,6 +181,8 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
+
+/* meet the trainers style*/
 
 .trainers {
     text-align: center;
