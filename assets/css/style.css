@@ -47,9 +47,9 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 1.55vw;
 }
+/* Header/Nav Styling end */
 
 /* footer Styling */
-
 footer {
     background: #fce138;
     width: 100%;
@@ -67,6 +67,7 @@ footer h2 {
 
 footer div {
     line-height: 1.5;
+    text-align: right;
 }
 
 footer a {
@@ -294,7 +295,6 @@ section {
     flex: 1;
     margin: 15px;
 }
-]
 
 .contact-info iframe {
     height: 400px;
