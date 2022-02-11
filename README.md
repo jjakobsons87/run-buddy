@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://jjakobsons87.github.io/run-buddy/ 
 
 ##Contribution 
-Mady with ❤️ by Jeremy 
+Made with ❤️ by Jeremy 
 
 ### ©️2019 Run Buddy, Inc
